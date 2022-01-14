@@ -2,7 +2,7 @@
 
 <style>
 a:link, a:visited {
-  background-color: #f44336;
+  background-color: #008080;
   color: white;
   padding: 14px 25px;
   text-align: center;
@@ -11,11 +11,11 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: red;
+  background-color: #008080;
 }
   
 </style>
-<a href="https://google.com" style="text-color: blue; background-color: red;"> <button>example</button></a>
+<a href="https://google.com">Call for submissions</a>
 
 
 ### Markdown
