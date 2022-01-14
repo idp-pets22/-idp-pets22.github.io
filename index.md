@@ -1,4 +1,4 @@
-<h1 align="center"> My privacy, your privacy, our privacy: when online privacy is multiparty and interdependent </h1>
+# PETS'22 Workshop on Multiparty and Interdependent Privacy
 
 
 
