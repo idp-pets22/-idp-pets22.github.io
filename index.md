@@ -1,4 +1,4 @@
-# PETS'22 Workshop on Multiparty and Interdependent Privacy
+# PETS 2022 Workshop on Multiparty and Interdependent Privacy
 
 
 
