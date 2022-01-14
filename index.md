@@ -1,10 +1,22 @@
 # PETS 2022 Workshop on Multiparty and Interdependent Privacy
 
+<style>
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 
+a:hover, a:active {
+  background-color: red;
+}
+  
+</style>
+<a href="https://google.com" style="text-color: blue; background-color: red;"> <button>example</button></a>
 
-You can use the [editor on GitHub](https://github.com/idp-pets22/idp-pets22.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
