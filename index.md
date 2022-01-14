@@ -1,4 +1,6 @@
+<center>
 # My privacy, your privacy, our privacy: when online privacy is multiparty and interdependent
+</center>
 
 You can use the [editor on GitHub](https://github.com/idp-pets22/idp-pets22.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
