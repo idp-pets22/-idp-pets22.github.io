@@ -1,6 +1,6 @@
 # PETS 2022 Workshop on Multiparty and Interdependent Privacy
 
-<style>
+<!-- <style>
 a:link, a:visited {
   background-color: #008080;
   color: white;
@@ -14,7 +14,7 @@ a:hover, a:active {
   background-color: #008080;
 }
   
-</style>
+</style> -->
 
 [Call for submissions](#call-for-submissions)
 
