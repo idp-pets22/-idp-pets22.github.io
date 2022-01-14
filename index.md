@@ -16,7 +16,7 @@ a:hover, a:active {
   
 </style>
 
-[Call for submissions]
+[Call for submissions](#call-for-submissions)
 
 
 ### Markdown
