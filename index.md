@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# PETS 2022 Workshop on Interdependent and Multiparty Privacy
 
 You can use the [editor on GitHub](https://github.com/idp-pets22/idp-pets22.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
